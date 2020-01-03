@@ -1,0 +1,9 @@
+.dark-background {
+    background-color:rgb(136, 161, 144)
+  }
+  
+.padded {
+    margin: auto;
+    padding: 20px;
+}
+
